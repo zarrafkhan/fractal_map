@@ -19,7 +19,7 @@ from ipyleaflet import (
 )
 
 #globs
-start = [38,-120]
+start = [38,-121]
 zoom = 7
 
 def load_base_map(start, zoom):
